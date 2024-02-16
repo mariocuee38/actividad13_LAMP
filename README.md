@@ -5,19 +5,22 @@
 ## Instalación de Apache:
 ![paso1](img/c1.PNG)
 
-## Instalación de 
 ![paso2](img/c2.PNG)
 
+### Añado el .php al conf de Apache:
 ![paso3](img/c3.PNG)
 
+### info.php en ´/var/www/html´:
 ![paso4](img/c4.PNG)
 
-![paso5](img/c5.PNG)
 
+## Instalación de MariaDB:
 ![paso6](img/c6.PNG)
 
+### Creo el usuario...
 ![paso7](img/c7.PNG)
 
+## Instalación de PHP:
 ![paso8](img/c8.PNG)
 
 ![paso9](img/c9.PNG)
